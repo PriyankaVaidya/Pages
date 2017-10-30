@@ -6,7 +6,7 @@ Try pages
 
 And unordered list ul elements
 
-*this is first
+* this is first
 * and the second 
 
 Ordered list
